@@ -7,7 +7,7 @@
 1/ CORS 
 - What is cors
 - Why using Cors,
-- How implement
+- How implement__
 2/ bodyParser
 - What is bodyParser
 - Why using bodyParser

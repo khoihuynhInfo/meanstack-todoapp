@@ -32,3 +32,6 @@ DELETE	Delete a todo by id
 
 ## Refer document
 https://buddy.works/tutorials/building-restful-apis-using-express-and-node-with-mongodb-atlas
+--
+More: 
+https://bezkoder.com/angular-mongodb-node-express/
